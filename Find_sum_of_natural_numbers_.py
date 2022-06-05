@@ -1,4 +1,5 @@
 num =int(input())
+
 if num < 0:
    print("Enter a positive number")
 else:
